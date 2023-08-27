@@ -1,0 +1,30 @@
+body{
+    background-color: lightgray;
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.textarea{
+    width: 80%;
+    height: 200px;
+    padding: 5px 5px 5px 5px;
+
+}
+.contenedorBtn{
+    background-color: grey;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 5px 5px 5px;
+}
+.btn{
+    width: 90px;
+    height: 20px;
+}
+.btn2{
+    width: 90px;
+    height: 20px;
+}
